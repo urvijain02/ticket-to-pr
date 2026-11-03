@@ -1,6 +1,6 @@
 # 📊 Claude Autopilot — Traffic & Adoption Dashboard
 
-*Last updated: 2026-11-02 05:55 UTC*
+*Last updated: 2026-11-03 06:40 UTC*
 
 This branch (`traffic-data`) permanently archives repository telemetry, overcoming GitHub's 14-day rolling window deletion policy. All time-series data is persisted exclusively to this orphan branch, keeping `main` 100% clean.
 
@@ -30,8 +30,8 @@ flowchart LR
 | :--- | :--- |
 | **Total Page Views** | 100 |
 | **Cumulative Daily Uniques** | 9 |
-| **Total Git Clones** | 225 |
-| **Unique Git Cloners** | 125 |
+| **Total Git Clones** | 241 |
+| **Unique Git Cloners** | 135 |
 
 ---
 
@@ -51,7 +51,7 @@ flowchart LR
 
 | Domain | Total Hits | Unique Visitors | % of Total Traffic |
 | :--- | :--- | :--- | :--- |
-| `github.com` | 20 | 10 | 100.0% |
+| `github.com` | 24 | 12 | 100.0% |
 
 ---
 
@@ -59,19 +59,19 @@ flowchart LR
 
 | Document / Path | Page Views | Unique Readers |
 | :--- | :--- | :--- |
-| **/pulls** (`/urvijain02/claude-autopilot/pulls`) | 98 | 14 |
-| **/actions** (`/urvijain02/claude-autopilot/actions`) | 60 | 12 |
-| **/pull/4** (`/urvijain02/claude-autopilot/pull/4`) | 60 | 12 |
+| **/pulls** (`/urvijain02/claude-autopilot/pulls`) | 103 | 15 |
+| **/actions** (`/urvijain02/claude-autopilot/actions`) | 65 | 13 |
+| **/pull/4** (`/urvijain02/claude-autopilot/pull/4`) | 65 | 13 |
+| **/tree/main** (`/urvijain02/claude-autopilot/tree/main`) | 44 | 4 |
 | **/pull/2** (`/urvijain02/claude-autopilot/pull/2`) | 40 | 14 |
-| **/actions/workflows/traffic-archive.yml** (`/urvijain02/claude-autopilot/actions/workflows/traffic-archive.yml`) | 36 | 12 |
-| **/tree/main** (`/urvijain02/claude-autopilot/tree/main`) | 33 | 3 |
-| **Overview** (`/urvijain02/claude-autopilot`) | 20 | 10 |
+| **/actions/workflows/traffic-archive.yml** (`/urvijain02/claude-autopilot/actions/workflows/traffic-archive.yml`) | 39 | 13 |
+| **Overview** (`/urvijain02/claude-autopilot`) | 24 | 12 |
 | **/actions/runs/39072240583/job/117512071539** (`/urvijain02/claude-autopilot/actions/runs/39072240583/job/117512071539`) | 12 | 12 |
 | **/actions/runs/39072240583/job/117512071719** (`/urvijain02/claude-autopilot/actions/runs/39072240583/job/117512071719`) | 12 | 12 |
-| **/actions/runs/39410164482** (`/urvijain02/claude-autopilot/actions/runs/39410164482`) | 11 | 11 |
-| **/actions/runs/39410164482/job/118585688863** (`/urvijain02/claude-autopilot/actions/runs/39410164482/job/118585688863`) | 11 | 11 |
-| **/actions/runs/39413793156** (`/urvijain02/claude-autopilot/actions/runs/39413793156`) | 6 | 6 |
-| **/tree/main/hooks** (`/urvijain02/claude-autopilot/tree/main/hooks`) | 6 | 3 |
+| **/actions/runs/39410164482** (`/urvijain02/claude-autopilot/actions/runs/39410164482`) | 12 | 12 |
+| **/actions/runs/39410164482/job/118585688863** (`/urvijain02/claude-autopilot/actions/runs/39410164482/job/118585688863`) | 12 | 12 |
+| **/tree/main/hooks** (`/urvijain02/claude-autopilot/tree/main/hooks`) | 8 | 4 |
+| **/actions/runs/39413793156** (`/urvijain02/claude-autopilot/actions/runs/39413793156`) | 7 | 7 |
 | **/activity** (`/urvijain02/claude-autopilot/activity`) | 2 | 2 |
 | **/commits/main** (`/urvijain02/claude-autopilot/commits/main`) | 2 | 2 |
 
