@@ -1,6 +1,6 @@
 # 📊 Claude Autopilot — Traffic & Adoption Dashboard
 
-*Last updated: 2026-11-17 07:48 UTC*
+*Last updated: 2026-11-18 07:17 UTC*
 
 This branch (`traffic-data`) permanently archives repository telemetry, overcoming GitHub's 14-day rolling window deletion policy. All time-series data is persisted exclusively to this orphan branch, keeping `main` 100% clean.
 
@@ -28,10 +28,10 @@ flowchart LR
 
 | Metric | All-Time Total |
 | :--- | :--- |
-| **Total Page Views** | 114 |
-| **Cumulative Daily Uniques** | 13 |
-| **Total Git Clones** | 393 |
-| **Unique Git Cloners** | 237 |
+| **Total Page Views** | 115 |
+| **Cumulative Daily Uniques** | 14 |
+| **Total Git Clones** | 396 |
+| **Unique Git Cloners** | 240 |
 
 ---
 
@@ -51,7 +51,7 @@ flowchart LR
 
 | Domain | Total Hits | Unique Visitors | % of Total Traffic |
 | :--- | :--- | :--- | :--- |
-| `github.com` | 73 | 34 | 100.0% |
+| `github.com` | 76 | 35 | 100.0% |
 
 ---
 
@@ -66,8 +66,8 @@ flowchart LR
 | **Overview** (`/urvijain02/claude-autopilot`) | 54 | 28 |
 | **/actions/workflows/traffic-archive.yml** (`/urvijain02/claude-autopilot/actions/workflows/traffic-archive.yml`) | 42 | 14 |
 | **/pull/2** (`/urvijain02/claude-autopilot/pull/2`) | 40 | 14 |
+| **Overview** (`/urvijain02/ticket-to-pr`) | 31 | 22 |
 | **/tree/main/hooks** (`/urvijain02/claude-autopilot/tree/main/hooks`) | 28 | 14 |
-| **Overview** (`/urvijain02/ticket-to-pr`) | 27 | 20 |
 | **/actions/runs/39410164482** (`/urvijain02/claude-autopilot/actions/runs/39410164482`) | 13 | 13 |
 | **/actions/runs/39410164482/job/118585688863** (`/urvijain02/claude-autopilot/actions/runs/39410164482/job/118585688863`) | 13 | 13 |
 | **/actions/runs/39072240583/job/117512071539** (`/urvijain02/claude-autopilot/actions/runs/39072240583/job/117512071539`) | 12 | 12 |
