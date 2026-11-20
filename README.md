@@ -1,6 +1,6 @@
 # 📊 Claude Autopilot — Traffic & Adoption Dashboard
 
-*Last updated: 2026-11-19 07:16 UTC*
+*Last updated: 2026-11-20 07:04 UTC*
 
 This branch (`traffic-data`) permanently archives repository telemetry, overcoming GitHub's 14-day rolling window deletion policy. All time-series data is persisted exclusively to this orphan branch, keeping `main` 100% clean.
 
@@ -30,8 +30,8 @@ flowchart LR
 | :--- | :--- |
 | **Total Page Views** | 115 |
 | **Cumulative Daily Uniques** | 14 |
-| **Total Git Clones** | 396 |
-| **Unique Git Cloners** | 240 |
+| **Total Git Clones** | 410 |
+| **Unique Git Cloners** | 249 |
 
 ---
 
@@ -51,7 +51,7 @@ flowchart LR
 
 | Domain | Total Hits | Unique Visitors | % of Total Traffic |
 | :--- | :--- | :--- | :--- |
-| `github.com` | 79 | 36 | 100.0% |
+| `github.com` | 81 | 37 | 100.0% |
 
 ---
 
@@ -66,14 +66,14 @@ flowchart LR
 | **Overview** (`/urvijain02/claude-autopilot`) | 54 | 28 |
 | **/actions/workflows/traffic-archive.yml** (`/urvijain02/claude-autopilot/actions/workflows/traffic-archive.yml`) | 42 | 14 |
 | **/pull/2** (`/urvijain02/claude-autopilot/pull/2`) | 40 | 14 |
-| **Overview** (`/urvijain02/ticket-to-pr`) | 35 | 24 |
+| **Overview** (`/urvijain02/ticket-to-pr`) | 38 | 26 |
 | **/tree/main/hooks** (`/urvijain02/claude-autopilot/tree/main/hooks`) | 28 | 14 |
 | **/actions/runs/39410164482** (`/urvijain02/claude-autopilot/actions/runs/39410164482`) | 13 | 13 |
 | **/actions/runs/39410164482/job/118585688863** (`/urvijain02/claude-autopilot/actions/runs/39410164482/job/118585688863`) | 13 | 13 |
 | **/actions/runs/39072240583/job/117512071539** (`/urvijain02/claude-autopilot/actions/runs/39072240583/job/117512071539`) | 12 | 12 |
 | **/actions/runs/39072240583/job/117512071719** (`/urvijain02/claude-autopilot/actions/runs/39072240583/job/117512071719`) | 12 | 12 |
-| **/blob/main/README.md** (`/urvijain02/ticket-to-pr/blob/main/README.md`) | 10 | 5 |
-| **/blob/main/docs/demo.svg** (`/urvijain02/ticket-to-pr/blob/main/docs/demo.svg`) | 10 | 5 |
+| **/blob/main/README.md** (`/urvijain02/ticket-to-pr/blob/main/README.md`) | 12 | 6 |
+| **/blob/main/docs/demo.svg** (`/urvijain02/ticket-to-pr/blob/main/docs/demo.svg`) | 12 | 6 |
 
 ---
 
