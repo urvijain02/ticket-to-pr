@@ -1,6 +1,6 @@
 # 📊 Claude Autopilot — Traffic & Adoption Dashboard
 
-*Last updated: 2026-11-26 08:07 UTC*
+*Last updated: 2026-11-27 08:16 UTC*
 
 This branch (`traffic-data`) permanently archives repository telemetry, overcoming GitHub's 14-day rolling window deletion policy. All time-series data is persisted exclusively to this orphan branch, keeping `main` 100% clean.
 
@@ -28,10 +28,10 @@ flowchart LR
 
 | Metric | All-Time Total |
 | :--- | :--- |
-| **Total Page Views** | 115 |
-| **Cumulative Daily Uniques** | 14 |
-| **Total Git Clones** | 465 |
-| **Unique Git Cloners** | 286 |
+| **Total Page Views** | 118 |
+| **Cumulative Daily Uniques** | 17 |
+| **Total Git Clones** | 495 |
+| **Unique Git Cloners** | 305 |
 
 ---
 
@@ -51,7 +51,7 @@ flowchart LR
 
 | Domain | Total Hits | Unique Visitors | % of Total Traffic |
 | :--- | :--- | :--- | :--- |
-| `github.com` | 93 | 43 | 100.0% |
+| `github.com` | 94 | 44 | 100.0% |
 
 ---
 
@@ -63,13 +63,13 @@ flowchart LR
 | **/pulls** (`/urvijain02/claude-autopilot/pulls`) | 108 | 16 |
 | **/actions** (`/urvijain02/claude-autopilot/actions`) | 70 | 14 |
 | **/pull/4** (`/urvijain02/claude-autopilot/pull/4`) | 70 | 14 |
+| **Overview** (`/urvijain02/ticket-to-pr`) | 57 | 39 |
 | **Overview** (`/urvijain02/claude-autopilot`) | 54 | 28 |
-| **Overview** (`/urvijain02/ticket-to-pr`) | 53 | 35 |
 | **/actions/workflows/traffic-archive.yml** (`/urvijain02/claude-autopilot/actions/workflows/traffic-archive.yml`) | 42 | 14 |
 | **/pull/2** (`/urvijain02/claude-autopilot/pull/2`) | 40 | 14 |
 | **/tree/main/hooks** (`/urvijain02/claude-autopilot/tree/main/hooks`) | 28 | 14 |
-| **/blob/main/README.md** (`/urvijain02/ticket-to-pr/blob/main/README.md`) | 24 | 12 |
-| **/blob/main/docs/demo.svg** (`/urvijain02/ticket-to-pr/blob/main/docs/demo.svg`) | 24 | 12 |
+| **/blob/main/README.md** (`/urvijain02/ticket-to-pr/blob/main/README.md`) | 26 | 13 |
+| **/blob/main/docs/demo.svg** (`/urvijain02/ticket-to-pr/blob/main/docs/demo.svg`) | 26 | 13 |
 | **/actions/runs/39410164482** (`/urvijain02/claude-autopilot/actions/runs/39410164482`) | 13 | 13 |
 | **/actions/runs/39410164482/job/118585688863** (`/urvijain02/claude-autopilot/actions/runs/39410164482/job/118585688863`) | 13 | 13 |
 | **/blob/traffic-data/views-chart.svg** (`/urvijain02/ticket-to-pr/blob/traffic-data/views-chart.svg`) | 13 | 13 |
