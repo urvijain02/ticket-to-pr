@@ -1,6 +1,6 @@
 # 📊 Claude Autopilot — Traffic & Adoption Dashboard
 
-*Last updated: 2026-11-27 08:16 UTC*
+*Last updated: 2026-11-28 07:39 UTC*
 
 This branch (`traffic-data`) permanently archives repository telemetry, overcoming GitHub's 14-day rolling window deletion policy. All time-series data is persisted exclusively to this orphan branch, keeping `main` 100% clean.
 
@@ -30,8 +30,8 @@ flowchart LR
 | :--- | :--- |
 | **Total Page Views** | 118 |
 | **Cumulative Daily Uniques** | 17 |
-| **Total Git Clones** | 495 |
-| **Unique Git Cloners** | 305 |
+| **Total Git Clones** | 497 |
+| **Unique Git Cloners** | 307 |
 
 ---
 
@@ -63,7 +63,7 @@ flowchart LR
 | **/pulls** (`/urvijain02/claude-autopilot/pulls`) | 108 | 16 |
 | **/actions** (`/urvijain02/claude-autopilot/actions`) | 70 | 14 |
 | **/pull/4** (`/urvijain02/claude-autopilot/pull/4`) | 70 | 14 |
-| **Overview** (`/urvijain02/ticket-to-pr`) | 57 | 39 |
+| **Overview** (`/urvijain02/ticket-to-pr`) | 60 | 42 |
 | **Overview** (`/urvijain02/claude-autopilot`) | 54 | 28 |
 | **/actions/workflows/traffic-archive.yml** (`/urvijain02/claude-autopilot/actions/workflows/traffic-archive.yml`) | 42 | 14 |
 | **/pull/2** (`/urvijain02/claude-autopilot/pull/2`) | 40 | 14 |
